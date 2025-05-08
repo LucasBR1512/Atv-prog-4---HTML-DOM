@@ -8,7 +8,6 @@ Dupla: Lucas Emanoel e Thomas Danton
 ## 📌 Objetivo do Projeto
 
 - Desenvolver uma **lista de produtos** com integração a um **carrinho de compras interativo**, simulando funcionalidades comuns de uma loja virtual.
-- Trabalhar com **manipulação de DOM**, **eventos**, e **renderização dinâmica** de dados provenientes de um arquivo JSON (`data.json`).
 - Exercitar **boas práticas de organização de código**, **estruturação HTML semântica** e **estilização responsiva com CSS**.
 
 
